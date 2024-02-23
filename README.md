@@ -1,2 +1,2 @@
-TASK#3 CALCULATOR-CODSOFT
-Internship Project of CodSoft
+# TASK#3 CALCULATOR-CODSOFT
+## Internship Project of CodSoft
